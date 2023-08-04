@@ -1,4 +1,7 @@
 # CarGame
 Racing game using Javascript
 
-![test](https://github.com/AbhinavPatel0208/CarGame/assets/71115461/5c669abe-6388-4b34-825f-284c1bb311c4)
+
+
+https://github.com/AbhinavPatel0208/CarGame/assets/71115461/be220fd6-98e6-40b6-b145-9678cb5232cc
+
